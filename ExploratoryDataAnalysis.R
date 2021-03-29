@@ -1,10 +1,8 @@
 getwd()
-setwd("/Users/jigyasasachdeva/Desktop/Second Sem/Data Mining/")
+setwd("/Users/varunmaheshwari/Desktop/Second Sem/Data Mining/")
 #set directory to the location of saved file
 
-
 #Problem 3
-
 #(a)
 #Reading the data in R
 College <- read.csv("college.csv")
